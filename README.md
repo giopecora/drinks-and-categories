@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# Drinks and Categories
 
 Descrição curta do projeto.
 
