@@ -1,7 +1,5 @@
 # Drinks and Categories
 
-Descrição curta do projeto.
-
 ## Instalação e Execução
 
 ### Backend
