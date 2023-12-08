@@ -28,7 +28,6 @@ services:
       - redis
     build:
       context: .
-      target: dependencies
     ports:
       - ${PORT}:${PORT}
       - 8080:8080
@@ -39,8 +38,8 @@ services:
       - PG_HOST=postgres
       - REDIS_HOST=redis
     volumes:
-      - ./:/home/node/app
-    command: dumb-init node ace serve --watch --encore-args="--host ${HOST} --port 8080"
+      - .:/app
+      - /app/node_modules
 
 volumes:
   postgres_volume:
