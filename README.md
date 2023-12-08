@@ -81,8 +81,4 @@ Este projeto está licenciado sob a Licença XYZ - veja o arquivo [LICENSE.md](L
 
 ## Contato
 
-Para qualquer dúvida ou feedback, entre em contato através do [email@example.com](mailto:email@example.com).
-
----
-
-Lembre-se de substituir "Nome do Seu Projeto", "Descrição curta do projeto", "Licença XYZ", "CONTRIBUTING.md", "LICENSE.md", "email@example.com" pelos detalhes específicos do seu projeto. Este é apenas um exemplo básico, e você pode expandi-lo conforme necessário.
+Para qualquer dúvida ou feedback, entre em contato através do [giovanepecora@gmail.com](mailto:giovanepecora@gmail.com).
